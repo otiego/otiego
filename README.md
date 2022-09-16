@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @otiego
-- 👀 I’m interested in Android development
+- 👀 I'm an Android Developer
 - 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects and contibute to the community
+- 📫 How to reach me||ronald.otiego@gmail.com
 
 <!---
 otiego/otiego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
