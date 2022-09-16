@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @otiego
 - 👀 I'm an Android Developer
-- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on projects and contibute to the community
 - 📫 How to reach me||ronald.otiego@gmail.com
 
