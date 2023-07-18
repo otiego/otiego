@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @otiego
+- 👋 Hi, I’m @otiego_Ronald
 - 👀 I'm an Android Developer
 - 💞️ Always working on something
 - 📫 How to reach me||ronald.otiego@gmail.com
